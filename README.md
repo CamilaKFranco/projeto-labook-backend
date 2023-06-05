@@ -18,8 +18,8 @@ Roteamento
 Postman
 Banco de dados
 projeto-labook (2)
+https://documenter.getpostman.com/view/24823280/2s93sXcEZ5
 
-https://dbdiagram.io/d/63d16443296d97641d7c1ae1
 
 Lista de requisitos
 Documentação Postman de todos os endpoints (obrigatória para correção)
